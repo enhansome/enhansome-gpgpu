@@ -1,0 +1,294 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "CUDA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "💀 Thrust",
+          "description": "The C++ parallel algorithms library ⭐ 5k",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-02-08T15:54:40Z",
+            "owner": "NVIDIA",
+            "repo": "thrust",
+            "stars": 5003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🟢 cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs ⭐ 885",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-16T18:38:54Z",
+            "owner": "eyalroz",
+            "repo": "cuda-api-wrappers",
+            "stars": 902
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OpenCL"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🟢 ArrayFire",
+          "description": "A general-purpose GPU library ⭐ 4.9k",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-07T03:06:52Z",
+            "owner": "arrayfire",
+            "repo": "arrayfire",
+            "stars": 4900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🟢 Boost.Compute",
+          "description": "A C++ GPU Computing Library for OpenCL ⭐ 1.7k",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:35:26Z",
+            "owner": "boostorg",
+            "repo": "compute",
+            "stars": 1661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🟢 VexCL",
+          "description": "VexCL is a C++ vector expression template library for OpenCL/CUDA ⭐ 719",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-19T18:54:30Z",
+            "owner": "ddemidov",
+            "repo": "vexcl",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 Chlorine",
+          "description": "Dead Simple OpenCL ⭐ 429",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-04-10T01:28:31Z",
+            "owner": "Polytonic",
+            "repo": "Chlorine",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 EasyOpenCL - The easiest way to get started with OpenCL! ⭐ 310",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-09-06T10:22:42Z",
+            "owner": "Gladdy",
+            "repo": "EasyOpenCL",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🟡 EasyCL - Easy to run kernels using OpenCL ⭐ 188",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-04-22T00:23:41Z",
+            "owner": "hughperkins",
+            "repo": "EasyCL",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 clpp - Lightweight and easy to use the OpenCL C++ wrapper in single file ⭐ 5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-02-25T12:06:15Z",
+            "owner": "matszpk",
+            "repo": "clpp",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🟢 Bullet",
+          "description": "Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) ⭐ 14.5k",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T02:13:14Z",
+            "owner": "bulletphysics",
+            "repo": "bullet3",
+            "stars": 14670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms ⭐ 5k",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-17T09:17:33Z",
+            "owner": "XiaoMi",
+            "repo": "mace",
+            "stars": 5045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🟢 CLBlast",
+          "description": "Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 ⭐ 1.2k",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-13T18:52:03Z",
+            "owner": "CNugteren",
+            "repo": "CLBlast",
+            "stars": 1187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 DeepCL - OpenCL library to train deep convolutional neural networks ⭐ 881",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-01-05T23:33:02Z",
+            "owner": "hughperkins",
+            "repo": "DeepCL",
+            "stars": 882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 OpenCL-caffe - OpenCL version of caffe developed by AMD research lab ⭐ 526",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-08-31T13:38:09Z",
+            "owner": "amd",
+            "repo": "OpenCL-caffe",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🟢 Sol-R - CUDA/OpenCL-based realtime ray-tracer ⭐ 306",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-07T12:08:41Z",
+            "owner": "favreau",
+            "repo": "Sol-R",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔴 libclsph - OpenCL based GPU accelerated SPH fluid simulation library ⭐ 52",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2016-03-19T19:17:13Z",
+            "owner": "libclsph",
+            "repo": "libclsph",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vulkan"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "Contributions are very welcome. Please read the contribution guidelines first. Also, please feel free to report any error.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:57:37.657Z",
+    "original_repository": "jslee02/awesome-gpgpu",
+    "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
+    "enhanced_repository": "enhansome/enhansome-gpgpu",
+    "enhanced_repository_description": null,
+    "title": "Awesome GPGPU with stars"
+  }
+}
