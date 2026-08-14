@@ -82,7 +82,7 @@
             "last_commit": "2026-08-12T11:35:26Z",
             "owner": "boostorg",
             "repo": "compute",
-            "stars": 1661
+            "stars": 1662
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14670
+            "stars": 14673
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:57:37.657Z",
+    "last_updated": "2026-08-14T15:50:22.758Z",
     "original_repository": "jslee02/awesome-gpgpu",
     "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
     "enhanced_repository": "enhansome/enhansome-gpgpu",
