@@ -24,7 +24,7 @@
             "last_commit": "2024-02-08T15:54:40Z",
             "owner": "NVIDIA",
             "repo": "thrust",
-            "stars": 5003
+            "stars": 5004
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-16T18:38:54Z",
             "owner": "eyalroz",
             "repo": "cuda-api-wrappers",
-            "stars": 902
+            "stars": 903
           }
         }
       ],
@@ -68,7 +68,7 @@
             "last_commit": "2026-03-07T03:06:52Z",
             "owner": "arrayfire",
             "repo": "arrayfire",
-            "stars": 4900
+            "stars": 4901
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2026-08-12T11:35:26Z",
             "owner": "boostorg",
             "repo": "compute",
-            "stars": 1662
+            "stars": 1661
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2015-09-06T10:22:42Z",
             "owner": "Gladdy",
             "repo": "EasyOpenCL",
-            "stars": 309
+            "stars": 308
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2025-10-22T02:13:14Z",
             "owner": "bulletphysics",
             "repo": "bullet3",
-            "stars": 14678
+            "stars": 14679
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2018-08-31T13:38:09Z",
             "owner": "amd",
             "repo": "OpenCL-caffe",
-            "stars": 529
+            "stars": 527
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:19:19.489Z",
+    "last_updated": "2026-08-17T15:23:26.674Z",
     "original_repository": "jslee02/awesome-gpgpu",
     "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
     "enhanced_repository": "enhansome/enhansome-gpgpu",
