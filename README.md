@@ -55,7 +55,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 ### Applications
 
-* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,680 | 🐛 423 | 🌐 C++ | 📅 2025-10-22
+* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,683 | 🐛 423 | 🌐 C++ | 📅 2025-10-22
 * 🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms [⭐ 5k](https://github.com/XiaoMi/mace) ⭐ 5,044 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
 * 🟢 [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [⭐ 1.2k](https://github.com/CNugteren/CLBlast) ⭐ 1,187 | 🐛 51 | 🌐 C++ | 📅 2026-04-13
 * 🔴 DeepCL - OpenCL library to train deep convolutional neural networks [⭐ 881](https://github.com/hughperkins/DeepCL) ⭐ 882 | 🐛 33 | 🌐 C++ | 📅 2018-01-05
@@ -73,7 +73,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute) ⭐ 2,556 | 🐛 78 | 🌐 C++ | 📅 2026-08-15
+* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute) ⭐ 2,557 | 🐛 78 | 🌐 C++ | 📅 2026-08-15
 
 ## [Contributing](#contents)
 
@@ -85,4 +85,4 @@ Contributions are very welcome. Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
