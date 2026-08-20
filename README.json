@@ -186,7 +186,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14683
+                "stars": 14681
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:29:35.424Z",
+    "last_updated": "2026-08-20T15:31:41.598Z",
     "original_repository": "jslee02/awesome-gpgpu",
     "original_repository_id": 138052587,
     "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
