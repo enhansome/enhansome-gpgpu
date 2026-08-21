@@ -19,7 +19,7 @@
                     "last_commit": "2024-02-08T15:54:40Z",
                     "owner": "NVIDIA",
                     "repo": "thrust",
-                    "stars": 5003
+                    "stars": 5002
                   }
                 },
                 {
@@ -69,7 +69,7 @@
                     "last_commit": "2026-03-07T03:06:52Z",
                     "owner": "arrayfire",
                     "repo": "arrayfire",
-                    "stars": 4900
+                    "stars": 4902
                   }
                 },
                 {
@@ -186,7 +186,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14681
+                "stars": 14684
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:31:41.598Z",
+    "last_updated": "2026-08-21T15:30:50.614Z",
     "original_repository": "jslee02/awesome-gpgpu",
     "original_repository_id": 138052587,
     "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
