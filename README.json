@@ -166,6 +166,28 @@
               "description": null,
               "node_type": "group",
               "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🔴 Emu",
+                  "description": "Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust ⭐ 1.6k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178195679,
+                    "language": "Rust",
+                    "last_commit": "2023-01-20T22:29:58Z",
+                    "owner": "calebwin",
+                    "repo": "emu",
+                    "stars": 1604
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rust"
             }
           ],
           "description": null,
@@ -186,7 +208,7 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14688
+                "stars": 14692
               }
             },
             {
@@ -201,7 +223,7 @@
                 "last_commit": "2024-06-17T09:17:33Z",
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5044
+                "stars": 5046
               }
             },
             {
@@ -283,13 +305,35 @@
           "description": null,
           "node_type": "group",
           "title": "Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🔴 Basic examples of OpenCL with the C++ API",
+              "description": "⭐ 180",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36960507,
+                "language": "C",
+                "last_commit": "2019-03-26T01:38:08Z",
+                "owner": "Dakkers",
+                "repo": "OpenCL-examples",
+                "stars": 181
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
       "title": "OpenCL"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:20:41.415Z",
+    "last_updated": "2026-08-24T14:43:16.603Z",
     "original_repository": "jslee02/awesome-gpgpu",
     "original_repository_id": 138052587,
     "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
