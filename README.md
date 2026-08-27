@@ -41,8 +41,8 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire) ⭐ 4,902 | 🐛 318 | 🌐 C++ | 📅 2026-03-07
-* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute) ⭐ 1,660 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
+* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire) ⭐ 4,903 | 🐛 318 | 🌐 C++ | 📅 2026-03-07
+* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute) ⭐ 1,661 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
 * 🟢 [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [⭐ 719](https://github.com/ddemidov/vexcl) ⭐ 721 | 🐛 31 | 🌐 C++ | 📅 2025-07-19
 * 🔴 [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [⭐ 429](https://github.com/Polytonic/Chlorine) ⭐ 429 | 🐛 5 | 🌐 C++ | 📅 2016-04-10
 * 🔴 EasyOpenCL - The easiest way to get started with OpenCL! [⭐ 310](https://github.com/Gladdy/EasyOpenCL) ⭐ 308 | 🐛 0 | 🌐 C++ | 📅 2015-09-06
@@ -73,7 +73,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute) ⭐ 2,558 | 🐛 78 | 🌐 C++ | 📅 2026-08-15
+* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute) ⭐ 2,559 | 🐛 78 | 🌐 C++ | 📅 2026-08-15
 
 ## [Contributing](#contents)
 
@@ -85,4 +85,4 @@ Contributions are very welcome. Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
