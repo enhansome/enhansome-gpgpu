@@ -20,7 +20,8 @@
                     "owner": "NVIDIA",
                     "repo": "thrust",
                     "stars": 5002
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
                     "stars": 903
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 }
               ],
               "description": null,
@@ -70,7 +72,8 @@
                     "owner": "arrayfire",
                     "repo": "arrayfire",
                     "stars": 4903
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -84,8 +87,9 @@
                     "last_commit": "2026-08-12T11:35:26Z",
                     "owner": "boostorg",
                     "repo": "compute",
-                    "stars": 1661
-                  }
+                    "stars": 1662
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -100,7 +104,8 @@
                     "owner": "ddemidov",
                     "repo": "vexcl",
                     "stars": 721
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -115,7 +120,8 @@
                     "owner": "Polytonic",
                     "repo": "Chlorine",
                     "stars": 429
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -130,7 +136,8 @@
                     "owner": "Gladdy",
                     "repo": "EasyOpenCL",
                     "stars": 308
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -145,7 +152,8 @@
                     "owner": "hughperkins",
                     "repo": "EasyCL",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 },
                 {
                   "node_type": "item",
@@ -160,7 +168,8 @@
                     "owner": "matszpk",
                     "repo": "clpp",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 }
               ],
               "description": null,
@@ -182,7 +191,8 @@
                     "owner": "calebwin",
                     "repo": "emu",
                     "stars": 1604
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:52:09.479Z"
                 }
               ],
               "description": null,
@@ -208,8 +218,9 @@
                 "last_commit": "2025-10-22T02:13:14Z",
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14699
-              }
+                "stars": 14703
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             },
             {
               "node_type": "item",
@@ -224,7 +235,8 @@
                 "owner": "XiaoMi",
                 "repo": "mace",
                 "stars": 5046
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             },
             {
               "node_type": "item",
@@ -239,7 +251,8 @@
                 "owner": "CNugteren",
                 "repo": "CLBlast",
                 "stars": 1186
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             },
             {
               "node_type": "item",
@@ -254,7 +267,8 @@
                 "owner": "hughperkins",
                 "repo": "DeepCL",
                 "stars": 882
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             },
             {
               "node_type": "item",
@@ -269,7 +283,8 @@
                 "owner": "amd",
                 "repo": "OpenCL-caffe",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             },
             {
               "node_type": "item",
@@ -284,7 +299,8 @@
                 "owner": "favreau",
                 "repo": "Sol-R",
                 "stars": 305
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             },
             {
               "node_type": "item",
@@ -299,7 +315,8 @@
                 "owner": "libclsph",
                 "repo": "libclsph",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             }
           ],
           "description": null,
@@ -321,7 +338,8 @@
                 "owner": "Dakkers",
                 "repo": "OpenCL-examples",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T23:52:09.479Z"
             }
           ],
           "description": null,
@@ -333,7 +351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:14:09.073Z",
+    "last_updated": "2026-08-28T23:52:09.479Z",
     "original_repository_info": {
       "archived": false,
       "id": 138052587,
