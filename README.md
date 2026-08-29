@@ -51,7 +51,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### Rust
 
-* 🔴 [Emu](https://calebwin.github.io/emu/) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust [⭐ 1.6k](https://github.com/calebwin/emu) ⭐ 1,604 | 🐛 29 | 🌐 Rust | 📅 2023-01-20
+* 🔴 [Emu](https://calebwin.github.io/emu/) - Emu is a high-level language that compiles to OpenCL and provides a procedural macro for embedding code in Rust [⭐ 1.6k](https://github.com/calebwin/emu) ⭐ 1,605 | 🐛 29 | 🌐 Rust | 📅 2023-01-20
 
 ### Applications
 
