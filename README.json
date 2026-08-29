@@ -14,12 +14,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[ARCHIVED] The C++ parallel algorithms library. See https://github.com/NVIDIA/cccl",
+                    "homepage": null,
                     "id": 3633213,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-08T15:54:40Z",
+                    "open_issues": 8,
                     "owner": "NVIDIA",
                     "repo": "thrust",
-                    "stars": 5002
+                    "stars": 5002,
+                    "topics": [
+                      "algorithms",
+                      "cpp",
+                      "cpp11",
+                      "cpp14",
+                      "cpp17",
+                      "cpp20",
+                      "cuda",
+                      "cxx",
+                      "cxx11",
+                      "cxx14",
+                      "cxx17",
+                      "cxx20",
+                      "gpu",
+                      "gpu-computing",
+                      "nvidia",
+                      "nvidia-hpc-sdk",
+                      "thrust"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -30,12 +53,33 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Thin, unified, C++-flavored wrappers for the CUDA APIs",
+                    "homepage": null,
                     "id": 73505627,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-16T18:38:54Z",
+                    "open_issues": 117,
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
-                    "stars": 903
+                    "stars": 903,
+                    "topics": [
+                      "api-wrapper",
+                      "cuda",
+                      "cuda-api-wrappers",
+                      "cuda-device",
+                      "cuda-driver",
+                      "cuda-driver-api",
+                      "cuda-programming",
+                      "cuda-runtime-api",
+                      "cuda-toolkit",
+                      "gpgpu",
+                      "gpgpu-computing",
+                      "gpu",
+                      "gpu-computing",
+                      "gpu-memory",
+                      "modern-cpp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 }
@@ -66,12 +110,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ArrayFire: a general purpose GPU library.",
+                    "homepage": "https://arrayfire.com",
                     "id": 25889802,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-03-07T03:06:52Z",
+                    "open_issues": 318,
                     "owner": "arrayfire",
                     "repo": "arrayfire",
-                    "stars": 4903
+                    "stars": 4903,
+                    "topics": [
+                      "arrayfire",
+                      "c",
+                      "c-plus-plus",
+                      "cpp",
+                      "cuda",
+                      "gpgpu",
+                      "gpu",
+                      "hpc",
+                      "opencl",
+                      "performance",
+                      "scientific-computing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -82,12 +143,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A C++ GPU Computing Library for OpenCL",
+                    "homepage": "http://boostorg.github.io/compute/",
                     "id": 8526347,
                     "language": "C++",
+                    "license": "BSL-1.0",
                     "last_commit": "2026-08-12T11:35:26Z",
+                    "open_issues": 157,
                     "owner": "boostorg",
                     "repo": "compute",
-                    "stars": 1662
+                    "stars": 1662,
+                    "topics": [
+                      "boost",
+                      "c-plus-plus",
+                      "compute",
+                      "cpp",
+                      "gpgpu",
+                      "gpu",
+                      "hpc",
+                      "opencl",
+                      "performance"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -98,12 +174,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP",
+                    "homepage": "http://vexcl.readthedocs.org",
                     "id": 4479068,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-07-19T18:54:30Z",
+                    "open_issues": 31,
                     "owner": "ddemidov",
                     "repo": "vexcl",
-                    "stars": 721
+                    "stars": 721,
+                    "topics": [
+                      "c-plus-plus",
+                      "cpp11",
+                      "cuda",
+                      "gpgpu",
+                      "opencl",
+                      "scientific-computing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -114,12 +202,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dead Simple OpenCL",
+                    "homepage": "http://polytonic.github.io/Chlorine/",
                     "id": 12855931,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2016-04-10T01:28:31Z",
+                    "open_issues": 5,
                     "owner": "Polytonic",
                     "repo": "Chlorine",
-                    "stars": 429
+                    "stars": 429,
+                    "topics": [
+                      "compute",
+                      "cplusplus",
+                      "gpgpu",
+                      "opencl"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -130,12 +228,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The easiest way to get started with OpenCL!",
+                    "homepage": null,
                     "id": 36695111,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2015-09-06T10:22:42Z",
+                    "open_issues": 0,
                     "owner": "Gladdy",
                     "repo": "EasyOpenCL",
-                    "stars": 308
+                    "stars": 308,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -146,12 +249,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy to run kernels using OpenCL",
+                    "homepage": null,
                     "id": 7656464,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-04-22T00:23:41Z",
+                    "open_issues": 10,
                     "owner": "hughperkins",
                     "repo": "EasyCL",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 },
@@ -162,12 +270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight and easy to use the OpenCL C++ wrapper in single file",
+                    "homepage": null,
                     "id": 32278591,
                     "language": "C++",
+                    "license": "LGPL-2.1",
                     "last_commit": "2020-02-25T12:06:15Z",
+                    "open_issues": 0,
                     "owner": "matszpk",
                     "repo": "clpp",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 }
@@ -185,12 +298,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The write-once-run-anywhere GPGPU library for Rust",
+                    "homepage": "https://calebwin.github.io/emu",
                     "id": 178195679,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2023-01-20T22:29:58Z",
+                    "open_issues": 29,
                     "owner": "calebwin",
                     "repo": "emu",
-                    "stars": 1604
+                    "stars": 1604,
+                    "topics": [
+                      "emu",
+                      "gpgpu",
+                      "gpu",
+                      "gpu-acceleration",
+                      "gpu-computing",
+                      "gpu-programming",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:52:09.479Z"
                 }
@@ -213,12 +339,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+                "homepage": "http://bulletphysics.org",
                 "id": 1605598,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-22T02:13:14Z",
+                "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14703
+                "stars": 14703,
+                "topics": [
+                  "computer-animation",
+                  "game-development",
+                  "kinematics",
+                  "pybullet",
+                  "reinforcement-learning",
+                  "robotics",
+                  "simulation",
+                  "simulator",
+                  "virtual-reality"
+                ]
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             },
@@ -229,12 +370,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.",
+                "homepage": null,
                 "id": 138826968,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-17T09:17:33Z",
+                "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5046
+                "stars": 5046,
+                "topics": [
+                  "deep-learning",
+                  "hvx",
+                  "machine-learning",
+                  "neon",
+                  "neural-network",
+                  "opencl"
+                ]
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             },
@@ -245,12 +398,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tuned OpenCL BLAS",
+                "homepage": null,
                 "id": 36550739,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-13T18:52:03Z",
+                "open_issues": 54,
                 "owner": "CNugteren",
                 "repo": "CLBlast",
-                "stars": 1186
+                "stars": 1186,
+                "topics": [
+                  "blas",
+                  "blas-libraries",
+                  "clblas",
+                  "gemm",
+                  "gpu",
+                  "matrix-multiplication",
+                  "opencl"
+                ]
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             },
@@ -261,12 +427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenCL library to train deep convolutional neural networks",
+                "homepage": null,
                 "id": 28453253,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2018-01-05T23:33:02Z",
+                "open_issues": 33,
                 "owner": "hughperkins",
                 "repo": "DeepCL",
-                "stars": 882
+                "stars": 882,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             },
@@ -277,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This  is a  Experimental version of OpenCL by AMD Research, we now recommend you to use The official BVLC Caffe OpenCL branch is over at Caffe branch now at https://github.com/BVLC/caffe/tree/opencl",
+                "homepage": null,
                 "id": 41933662,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-08-31T13:38:09Z",
+                "open_issues": 33,
                 "owner": "amd",
                 "repo": "OpenCL-caffe",
-                "stars": 527
+                "stars": 527,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             },
@@ -293,12 +469,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-Source CUDA/OpenCL Speed Of Light Ray-tracer",
+                "homepage": "http://cudaopencl.blogspot.com/",
                 "id": 97372302,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2025-10-07T12:08:41Z",
+                "open_issues": 0,
                 "owner": "favreau",
                 "repo": "Sol-R",
-                "stars": 305
+                "stars": 305,
+                "topics": [
+                  "3d",
+                  "3d-graphics-engine",
+                  "cuda",
+                  "gpgpu",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "graphics-engine",
+                  "interactive",
+                  "opencl",
+                  "path-tracing",
+                  "pathtracing",
+                  "ray-tracing",
+                  "raytracer",
+                  "raytracing",
+                  "raytracing-engine",
+                  "realtime-rendering",
+                  "rendering",
+                  "science",
+                  "virtual-reality",
+                  "vr"
+                ]
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             },
@@ -309,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenCL based GPU accelerated SPH fluid simulation library",
+                "homepage": null,
                 "id": 14790624,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2016-03-19T19:17:13Z",
+                "open_issues": 11,
                 "owner": "libclsph",
                 "repo": "libclsph",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             }
@@ -332,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "basic examples of OpenCL with the C++ API",
+                "homepage": null,
                 "id": 36960507,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-03-26T01:38:08Z",
+                "open_issues": 3,
                 "owner": "Dakkers",
                 "repo": "OpenCL-examples",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
             }
@@ -351,15 +563,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:52:09.479Z",
+    "last_updated": "2026-08-29T05:03:27.785Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
+      "homepage": null,
       "id": 138052587,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-05-11T05:00:07Z",
+      "open_issues": 0,
       "owner": "jslee02",
       "repo": "awesome-gpgpu",
-      "stars": 110
+      "stars": 110,
+      "topics": [
+        "awesome-list",
+        "cuda",
+        "gpgpu",
+        "opencl",
+        "vulkan"
+      ]
     },
     "original_repository_sha": "8286ff3afff6d6bc3fde6bab6f3f512d8586df16",
     "enhanced_repository": "enhansome/enhansome-gpgpu",
