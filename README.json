@@ -348,7 +348,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14705,
+                "stars": 14707,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -407,7 +407,7 @@
                 "open_issues": 54,
                 "owner": "CNugteren",
                 "repo": "CLBlast",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": [
                   "blas",
                   "blas-libraries",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:24:43.392Z",
+    "last_updated": "2026-08-31T20:39:16.714Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
