@@ -183,7 +183,7 @@
                     "open_issues": 31,
                     "owner": "ddemidov",
                     "repo": "vexcl",
-                    "stars": 721,
+                    "stars": 722,
                     "topics": [
                       "c-plus-plus",
                       "cpp11",
@@ -348,7 +348,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14713,
+                "stars": 14716,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:06:11.139Z",
+    "last_updated": "2026-09-05T17:08:55.979Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
