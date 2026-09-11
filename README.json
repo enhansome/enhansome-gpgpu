@@ -115,8 +115,8 @@
                     "id": 25889802,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-10T16:26:45Z",
-                    "open_issues": 319,
+                    "last_commit": "2026-09-11T03:39:58Z",
+                    "open_issues": 328,
                     "owner": "arrayfire",
                     "repo": "arrayfire",
                     "stars": 4902,
@@ -179,7 +179,7 @@
                     "id": 4479068,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2025-07-19T18:54:30Z",
+                    "last_commit": "2026-09-11T18:03:10Z",
                     "open_issues": 31,
                     "owner": "ddemidov",
                     "repo": "vexcl",
@@ -348,7 +348,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14720,
+                "stars": 14717,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -379,7 +379,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5049,
+                "stars": 5048,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -407,7 +407,7 @@
                 "open_issues": 52,
                 "owner": "CNugteren",
                 "repo": "CLBlast",
-                "stars": 1188,
+                "stars": 1187,
                 "topics": [
                   "blas",
                   "blas-libraries",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:06:06.789Z",
+    "last_updated": "2026-09-11T18:10:34.488Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
