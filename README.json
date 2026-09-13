@@ -152,7 +152,7 @@
                     "open_issues": 157,
                     "owner": "boostorg",
                     "repo": "compute",
-                    "stars": 1663,
+                    "stars": 1664,
                     "topics": [
                       "boost",
                       "c-plus-plus",
@@ -348,7 +348,7 @@
                 "open_issues": 424,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14720,
+                "stars": 14722,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -436,7 +436,7 @@
                 "open_issues": 33,
                 "owner": "hughperkins",
                 "repo": "DeepCL",
-                "stars": 882,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:40:51.692Z",
+    "last_updated": "2026-09-13T17:54:57.721Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
