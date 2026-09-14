@@ -345,10 +345,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-22T02:13:14Z",
-                "open_issues": 424,
+                "open_issues": 425,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14722,
+                "stars": 14725,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:54:57.721Z",
+    "last_updated": "2026-09-14T19:43:48.185Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
