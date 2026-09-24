@@ -62,7 +62,7 @@
                     "open_issues": 122,
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
-                    "stars": 904,
+                    "stars": 905,
                     "topics": [
                       "api-wrapper",
                       "cuda",
@@ -348,7 +348,7 @@
                 "open_issues": 430,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14736,
+                "stars": 14740,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -379,7 +379,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5049,
+                "stars": 5050,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:51:02.771Z",
+    "last_updated": "2026-09-24T18:49:52.247Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
