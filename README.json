@@ -59,7 +59,7 @@
                     "language": "C++",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-10-02T19:48:52Z",
-                    "open_issues": 136,
+                    "open_issues": 138,
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
                     "stars": 905,
@@ -152,7 +152,7 @@
                     "open_issues": 157,
                     "owner": "boostorg",
                     "repo": "compute",
-                    "stars": 1664,
+                    "stars": 1663,
                     "topics": [
                       "boost",
                       "c-plus-plus",
@@ -379,7 +379,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5052,
+                "stars": 5054,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:47:57.252Z",
+    "last_updated": "2026-10-03T18:32:44.180Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
