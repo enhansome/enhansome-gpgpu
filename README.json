@@ -49,7 +49,7 @@
                 {
                   "node_type": "item",
                   "title": "🟢 cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs ⭐ 885",
-                  "description": null,
+                  "description": "eyalroz/cuda-api-wrappers",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -58,7 +58,7 @@
                     "id": 73505627,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-02T19:38:22Z",
+                    "last_commit": "2026-10-02T19:48:52Z",
                     "open_issues": 136,
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
@@ -224,7 +224,7 @@
                 {
                   "node_type": "item",
                   "title": "🔴 EasyOpenCL - The easiest way to get started with OpenCL! ⭐ 310",
-                  "description": null,
+                  "description": "Gladdy/EasyOpenCL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -245,7 +245,7 @@
                 {
                   "node_type": "item",
                   "title": "🟡 EasyCL - Easy to run kernels using OpenCL ⭐ 188",
-                  "description": null,
+                  "description": "hughperkins/EasyCL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -266,7 +266,7 @@
                 {
                   "node_type": "item",
                   "title": "🔴 clpp - Lightweight and easy to use the OpenCL C++ wrapper in single file ⭐ 5",
-                  "description": null,
+                  "description": "matszpk/clpp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -366,7 +366,7 @@
             {
               "node_type": "item",
               "title": "🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms ⭐ 5k",
-              "description": null,
+              "description": "XiaoMi/mace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
             {
               "node_type": "item",
               "title": "🔴 DeepCL - OpenCL library to train deep convolutional neural networks ⭐ 881",
-              "description": null,
+              "description": "hughperkins/DeepCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "🔴 OpenCL-caffe - OpenCL version of caffe developed by AMD research lab ⭐ 526",
-              "description": null,
+              "description": "amd/OpenCL-caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -465,7 +465,7 @@
             {
               "node_type": "item",
               "title": "🟢 Sol-R - CUDA/OpenCL-based realtime ray-tracer ⭐ 306",
-              "description": null,
+              "description": "favreau/Sol-R",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -507,7 +507,7 @@
             {
               "node_type": "item",
               "title": "🔴 libclsph - OpenCL based GPU accelerated SPH fluid simulation library ⭐ 52",
-              "description": null,
+              "description": "libclsph/libclsph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -535,7 +535,7 @@
             {
               "node_type": "item",
               "title": "🔴 Basic examples of OpenCL with the C++ API",
-              "description": "⭐ 180",
+              "description": "Dakkers/OpenCL-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:45:07.759Z",
+    "last_updated": "2026-10-03T04:47:57.252Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
