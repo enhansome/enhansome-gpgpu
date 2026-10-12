@@ -23,7 +23,7 @@
                     "open_issues": 8,
                     "owner": "NVIDIA",
                     "repo": "thrust",
-                    "stars": 5001,
+                    "stars": 5000,
                     "topics": [
                       "algorithms",
                       "cpp",
@@ -119,7 +119,7 @@
                     "open_issues": 331,
                     "owner": "arrayfire",
                     "repo": "arrayfire",
-                    "stars": 4903,
+                    "stars": 4902,
                     "topics": [
                       "arrayfire",
                       "c",
@@ -348,7 +348,7 @@
                 "open_issues": 433,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14771,
+                "stars": 14773,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -436,7 +436,7 @@
                 "open_issues": 33,
                 "owner": "hughperkins",
                 "repo": "DeepCL",
-                "stars": 884,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:52:09.479Z"
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:20:21.883Z",
+    "last_updated": "2026-10-12T22:23:19.389Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
