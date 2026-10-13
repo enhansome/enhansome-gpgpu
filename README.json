@@ -345,10 +345,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T21:51:41Z",
-                "open_issues": 433,
+                "open_issues": 432,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14773,
+                "stars": 14782,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -379,7 +379,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5053,
+                "stars": 5054,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:23:19.389Z",
+    "last_updated": "2026-10-13T20:29:56.041Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
