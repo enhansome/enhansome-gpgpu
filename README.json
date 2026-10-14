@@ -116,10 +116,10 @@
                     "language": "C++",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-12T15:03:15Z",
-                    "open_issues": 331,
+                    "open_issues": 333,
                     "owner": "arrayfire",
                     "repo": "arrayfire",
-                    "stars": 4902,
+                    "stars": 4903,
                     "topics": [
                       "arrayfire",
                       "c",
@@ -348,7 +348,7 @@
                 "open_issues": 432,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14782,
+                "stars": 14787,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -379,7 +379,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5054,
+                "stars": 5053,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:29:56.041Z",
+    "last_updated": "2026-10-14T19:10:37.760Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
