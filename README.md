@@ -29,7 +29,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 #### C++
 
 * 💀 [Thrust](https://github.com/NVIDIA/thrust) ⚠️ Archived - The C++ parallel algorithms library [⭐ 5k](https://github.com/NVIDIA/thrust) ⚠️ Archived
-* 🟢 cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [⭐ 885](https://github.com/eyalroz/cuda-api-wrappers) ⭐ 906 | 🐛 142 | 🌐 C++ | 📅 2026-10-25
+* 🟢 cuda-api-wrappers - Thin, unified, C++-flavored wrappers for the CUDA APIs [⭐ 885](https://github.com/eyalroz/cuda-api-wrappers) ⭐ 906 | 🐛 143 | 🌐 C++ | 📅 2026-10-25
 
 ### Tutorials
 
@@ -41,9 +41,9 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire) ⭐ 4,909 | 🐛 338 | 🌐 C++ | 📅 2026-11-04
-* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute) ⭐ 1,667 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
-* 🟢 [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [⭐ 719](https://github.com/ddemidov/vexcl) ⭐ 722 | 🐛 32 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire) ⭐ 4,909 | 🐛 337 | 🌐 C++ | 📅 2026-11-06
+* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute) ⭐ 1,668 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
+* 🟢 [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [⭐ 719](https://github.com/ddemidov/vexcl) ⭐ 722 | 🐛 33 | 🌐 C++ | 📅 2026-10-09
 * 🔴 [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [⭐ 429](https://github.com/Polytonic/Chlorine) ⭐ 428 | 🐛 5 | 🌐 C++ | 📅 2016-04-10
 * 🔴 EasyOpenCL - The easiest way to get started with OpenCL! [⭐ 310](https://github.com/Gladdy/EasyOpenCL) ⭐ 308 | 🐛 0 | 🌐 C++ | 📅 2015-09-06
 * 🟡 EasyCL - Easy to run kernels using OpenCL [⭐ 188](https://github.com/hughperkins/EasyCL) ⭐ 188 | 🐛 10 | 🌐 C++ | 📅 2025-04-22
@@ -55,11 +55,11 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 ### Applications
 
-* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,844 | 🐛 439 | 🌐 C++ | 📅 2026-10-09
-* 🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms [⭐ 5k](https://github.com/XiaoMi/mace) ⭐ 5,056 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
-* 🟢 [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [⭐ 1.2k](https://github.com/CNugteren/CLBlast) ⭐ 1,196 | 🐛 52 | 🌐 C++ | 📅 2026-10-31
+* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,842 | 🐛 439 | 🌐 C++ | 📅 2026-10-09
+* 🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms [⭐ 5k](https://github.com/XiaoMi/mace) ⭐ 5,055 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
+* 🟢 [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [⭐ 1.2k](https://github.com/CNugteren/CLBlast) ⭐ 1,196 | 🐛 53 | 🌐 C++ | 📅 2026-10-31
 * 🔴 DeepCL - OpenCL library to train deep convolutional neural networks [⭐ 881](https://github.com/hughperkins/DeepCL) ⭐ 883 | 🐛 33 | 🌐 C++ | 📅 2018-01-05
-* 🔴 OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [⭐ 526](https://github.com/amd/OpenCL-caffe) ⭐ 529 | 🐛 33 | 🌐 C++ | 📅 2018-08-31
+* 🔴 OpenCL-caffe - OpenCL version of caffe developed by AMD research lab [⭐ 526](https://github.com/amd/OpenCL-caffe) ⭐ 530 | 🐛 33 | 🌐 C++ | 📅 2018-08-31
 * 🟢 Sol-R - CUDA/OpenCL-based realtime ray-tracer [⭐ 306](https://github.com/favreau/Sol-R) ⭐ 306 | 🐛 0 | 🌐 C++ | 📅 2025-10-07
 * 🔴 libclsph - OpenCL based GPU accelerated SPH fluid simulation library [⭐ 52](https://github.com/libclsph/libclsph) ⭐ 53 | 🐛 11 | 🌐 C++ | 📅 2016-03-19
 
@@ -73,7 +73,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute) ⭐ 2,582 | 🐛 79 | 🌐 C++ | 📅 2026-08-15
+* 🟢 [Kompute](https://kompute.cc/) - The general purpose GPU compute framework for cross vendor graphics cards [⭐ 2.5k](https://github.com/KomputeProject/kompute) ⭐ 2,581 | 🐛 79 | 🌐 C++ | 📅 2026-08-15
 
 ## [Contributing](#contents)
 
@@ -85,4 +85,4 @@ Contributions are very welcome. Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
