@@ -58,8 +58,8 @@
                     "id": 73505627,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-25T17:46:59Z",
-                    "open_issues": 143,
+                    "last_commit": "2026-11-07T11:00:56Z",
+                    "open_issues": 145,
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
                     "stars": 906,
@@ -345,10 +345,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T21:51:41Z",
-                "open_issues": 439,
+                "open_issues": 443,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14842,
+                "stars": 14841,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -407,7 +407,7 @@
                 "open_issues": 53,
                 "owner": "CNugteren",
                 "repo": "CLBlast",
-                "stars": 1196,
+                "stars": 1197,
                 "topics": [
                   "blas",
                   "blas-libraries",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:41:33.691Z",
+    "last_updated": "2026-11-07T19:15:18.520Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
