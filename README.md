@@ -41,8 +41,8 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 #### C++
 
-* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire) ⭐ 4,910 | 🐛 338 | 🌐 C++ | 📅 2026-11-09
-* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute) ⭐ 1,668 | 🐛 157 | 🌐 C++ | 📅 2026-08-12
+* 🟢 [ArrayFire](https://arrayfire.com/) - A general-purpose GPU library [⭐ 4.9k](https://github.com/arrayfire/arrayfire) ⭐ 4,911 | 🐛 339 | 🌐 C++ | 📅 2026-11-11
+* 🟢 [Boost.Compute](http://boostorg.github.io/compute/) - A C++ GPU Computing Library for OpenCL [⭐ 1.7k](https://github.com/boostorg/compute) ⭐ 1,668 | 🐛 157 | 🌐 C++ | 📅 2026-11-11
 * 🟢 [VexCL](http://vexcl.readthedocs.org) - VexCL is a C++ vector expression template library for OpenCL/CUDA [⭐ 719](https://github.com/ddemidov/vexcl) ⭐ 722 | 🐛 32 | 🌐 C++ | 📅 2026-11-08
 * 🔴 [Chlorine](http://polytonic.github.io/Chlorine/) - Dead Simple OpenCL [⭐ 429](https://github.com/Polytonic/Chlorine) ⭐ 428 | 🐛 5 | 🌐 C++ | 📅 2016-04-10
 * 🔴 EasyOpenCL - The easiest way to get started with OpenCL! [⭐ 310](https://github.com/Gladdy/EasyOpenCL) ⭐ 308 | 🐛 0 | 🌐 C++ | 📅 2015-09-06
@@ -55,7 +55,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 ### Applications
 
-* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,850 | 🐛 444 | 🌐 C++ | 📅 2026-10-09
+* 🟢 [Bullet](http://bulletphysics.org/wordpress/) - Real-Time Physics Simulation (Bullet 3 includes the optional work-in-progress GPU pipeline.) [⭐ 14.5k](https://github.com/bulletphysics/bullet3) ⭐ 14,853 | 🐛 444 | 🌐 C++ | 📅 2026-10-09
 * 🔴 MACE - Deep learning inference framework optimized for mobile heterogeneous computing platforms [⭐ 5k](https://github.com/XiaoMi/mace) ⭐ 5,056 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
 * 🟢 [CLBlast](https://cnugteren.github.io/clblast/clblast.html) - Modern, lightweight, performant and tunable OpenCL BLAS library written in C++11 [⭐ 1.2k](https://github.com/CNugteren/CLBlast) ⭐ 1,199 | 🐛 56 | 🌐 C++ | 📅 2026-10-31
 * 🔴 DeepCL - OpenCL library to train deep convolutional neural networks [⭐ 881](https://github.com/hughperkins/DeepCL) ⭐ 884 | 🐛 33 | 🌐 C++ | 📅 2018-01-05
@@ -65,7 +65,7 @@ A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources
 
 ### Tutorials
 
-* 🔴 [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples) ⭐ 179 | 🐛 3 | 🌐 C | 📅 2019-03-26 [⭐ 180](https://github.com/Dakkers/OpenCL-examples) ⭐ 179 | 🐛 3 | 🌐 C | 📅 2019-03-26
+* 🔴 [Basic examples of OpenCL with the C++ API](https://github.com/Dakkers/OpenCL-examples) ⭐ 180 | 🐛 3 | 🌐 C | 📅 2019-03-26 [⭐ 180](https://github.com/Dakkers/OpenCL-examples) ⭐ 180 | 🐛 3 | 🌐 C | 📅 2019-03-26
 
 ## [Vulkan](#contents)
 
@@ -85,4 +85,4 @@ Contributions are very welcome. Please read the [contribution guidelines](CONTRI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
