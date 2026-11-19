@@ -23,7 +23,7 @@
                     "open_issues": 8,
                     "owner": "NVIDIA",
                     "repo": "thrust",
-                    "stars": 4992,
+                    "stars": 4991,
                     "topics": [
                       "algorithms",
                       "cpp",
@@ -58,7 +58,7 @@
                     "id": 73505627,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-17T17:06:33Z",
+                    "last_commit": "2026-11-19T08:55:08Z",
                     "open_issues": 93,
                     "owner": "eyalroz",
                     "repo": "cuda-api-wrappers",
@@ -119,7 +119,7 @@
                     "open_issues": 338,
                     "owner": "arrayfire",
                     "repo": "arrayfire",
-                    "stars": 4914,
+                    "stars": 4913,
                     "topics": [
                       "arrayfire",
                       "c",
@@ -152,7 +152,7 @@
                     "open_issues": 157,
                     "owner": "boostorg",
                     "repo": "compute",
-                    "stars": 1667,
+                    "stars": 1666,
                     "topics": [
                       "boost",
                       "c-plus-plus",
@@ -307,7 +307,7 @@
                     "open_issues": 29,
                     "owner": "calebwin",
                     "repo": "emu",
-                    "stars": 1604,
+                    "stars": 1602,
                     "topics": [
                       "emu",
                       "gpgpu",
@@ -348,7 +348,7 @@
                 "open_issues": 444,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14873,
+                "stars": 14876,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -379,7 +379,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5054,
+                "stars": 5053,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -403,11 +403,11 @@
                 "id": 36550739,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T08:00:17Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-19T07:25:04Z",
+                "open_issues": 54,
                 "owner": "CNugteren",
                 "repo": "CLBlast",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "blas",
                   "blas-libraries",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:28:22.065Z",
+    "last_updated": "2026-11-19T22:34:01.096Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
