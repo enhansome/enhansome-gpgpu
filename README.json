@@ -116,7 +116,7 @@
                     "language": "C++",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-11-12T13:45:03Z",
-                    "open_issues": 337,
+                    "open_issues": 340,
                     "owner": "arrayfire",
                     "repo": "arrayfire",
                     "stars": 4914,
@@ -211,7 +211,7 @@
                     "open_issues": 5,
                     "owner": "Polytonic",
                     "repo": "Chlorine",
-                    "stars": 428,
+                    "stars": 427,
                     "topics": [
                       "compute",
                       "cplusplus",
@@ -348,7 +348,7 @@
                 "open_issues": 444,
                 "owner": "bulletphysics",
                 "repo": "bullet3",
-                "stars": 14908,
+                "stars": 14911,
                 "topics": [
                   "computer-animation",
                   "game-development",
@@ -407,7 +407,7 @@
                 "open_issues": 46,
                 "owner": "CNugteren",
                 "repo": "CLBlast",
-                "stars": 1202,
+                "stars": 1203,
                 "topics": [
                   "blas",
                   "blas-libraries",
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:28:42.718Z",
+    "last_updated": "2026-11-27T23:13:33.875Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of awesome GPGPU (CUDA/OpenCL/Vulkan) resources",
